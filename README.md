@@ -34,8 +34,8 @@ This repository contains the scripts used to retrieve soil bacterial genomes fro
     ├── MAGs\_bac120\_GTDB\_phylogeny.tree
     ├── bac120\_common69\_marker\_list.tsv
     ├── bac120\_common69\_per\_genome\_summary.csv
-    ├── bac120\_common69\_per\_protein\_features.csv
-    └── homologues\_genome\_pairs\_protein\_features.csv
+    ├── bac120\_common69\_per\_protein\_features.csv.7z
+    └── homologues\_genome\_pairs\_protein\_features.csv.7z
 ```
 
 ## Workflow
